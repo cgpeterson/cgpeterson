@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cgpeterson
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Azure DevOps
 - 💞️ I’m looking to collaborate on any programming projects
 - 📫 How to reach me peterson.cody16@gmail.com
 
